@@ -1,9 +1,9 @@
 <h2 align="center">Hi there, I am Shri30yans</h1>
 
-- Learning to code discord bots.
-- Currently working on a Discord.py Economy Bot
+- Learning to code discord bots
+- Currently working on a discord.py economy bot
 - Python
-- Love tinkering with Arduino and Raspberry Pi
+- Raspberry Pi and Electronics enthusiast
 
 <br>
 
