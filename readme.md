@@ -1,11 +1,11 @@
-<h2 align="center">Hi there, I am Shri30yans</h1>
+<h2 align="center">Hi, I am Shriyans!</h1>
 
 - Learning Web Development
 - Currently working on a Computer Vision project
-- Python Developer 
-- Raspberry Pi and Electronics enthusiast
+- Python Developer
+- 3D printing enthusiast
+- Raspberry Pi and Electronics tinkerer
 
-<br>
 
 ### Connect with me:
 
