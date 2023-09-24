@@ -29,7 +29,7 @@
 [<img align="left" alt="PostgreSQL" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="500" height="500"/>](https://www.postgresql.org/)
 [<img align="left" alt="Git" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="500" height="500"/>](https://git-scm.com/) 
 <br>   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shri30yans&theme=dark&hide_border=true&ring=51FAFC&fire=3EC0EB&currStreakLabel=3EC0EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shri30yans&theme=dark&hide_border=true&ring=51FAFC&fire=3EC0EB&currStreakLabel=3EC0EB)]()
 
 [website]: https://shri30yans.github.io/
 [youtube]: https://www.youtube.com/c/shri30yanselectronics
