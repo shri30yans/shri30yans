@@ -32,7 +32,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shri30yans&theme=dark&hide_border=true&ring=51FAFC&fire=3EC0EB&currStreakLabel=3EC0EB)]()
 
 [website]: https://shri30yans.github.io/
-[youtube]: https://www.youtube.com/c/shri30yanselectronics
+[youtube]: https://www.youtube.com/@Shri30yansElectronics
 [discord]: https://discord.gg/3ugSfQMAxu
 
 
