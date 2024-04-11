@@ -1,7 +1,6 @@
 <h2 align="center">Hi, I am Shriyans!</h1>
 
-- Learning Web Development
-- Currently working on a Computer Vision project
+- Learning Web Development and Machine Learning
 - Python Developer
 - 3D printing enthusiast
 - Raspberry Pi and Electronics tinkerer
