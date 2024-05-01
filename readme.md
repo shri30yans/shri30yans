@@ -1,15 +1,13 @@
 <h2 align="center">Hi, I am Shriyans!</h1>
 
-- Learning Web Development and Machine Learning
+- Learning Machine Learning and Web development
 - Python Developer
 - 3D printing enthusiast
 - Raspberry Pi and Electronics tinkerer
 
 
 ### Connect with me:
-
-[<img align="left" alt="shri30yans.github.io"  width="30px" height="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube"  width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" />][youtube]
+[<img align="left" alt="YouTube"  width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" />][youtube] 
 [<img align="left" alt="Discord Server"  width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />][discord]
 
 <br>
