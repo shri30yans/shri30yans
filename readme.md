@@ -7,10 +7,9 @@
 
 
 ### Connect with me:
-[<img align="left" alt="YouTube"  width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" />][youtube] 
-[<img align="left" alt="Discord Server"  width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />][discord]
-
-<br>
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)][website]
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord]
+[![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />](https://www.python.org/)
