@@ -1,35 +1,35 @@
 <h1>Shriyans Gandhi</h1>
 
 <p>
-  <a href="https://shri30yans.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="mailto:shriyans.gandhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://shri30yans.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F1115?style=flat-square&logo=react&logoColor=8C9BFF" alt="Portfolio" /></a>
+  <a href="mailto:shriyans.gandhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+I build systems that run on your own machine. Agent platforms, speech pipelines, motion graphics engines and CAD tooling, mostly in Go, Rust, Python and TypeScript.
 
-### Currently Exploring
-- **LLM Orchestration**: AI Agents, MCP
-- **Systems Design**: High-performance scalable Golang applications
-- **Mechatronics**: Custom made 3D printers
+### Selected work
 
+| Project | What it is |
+|---|---|
+| [Evolv](https://github.com/shri30yans/Evolv) | Durable agent-loop platform with run transcripts, tool execution, plugins and versioned packs |
+| [voice-agent](https://github.com/shri30yans/voice-agent) | Real-time voice agent with on-device ASR, streaming LLM replies and barge-in TTS |
+| [turbomotion](https://github.com/shri30yans/turbomotion) | Rust motion-graphics engine that renders JSON compositions to H.264 with Skia on Metal, no browser |
+| [DeSlopify](https://github.com/shri30yans/DeSlopify) | Quality layer for AI coding agents: codemap, write-time guards, slop detectors and a bounded review loop |
+| [AgencyOS](https://github.com/shri30yans/AgencyOS) | Go and React platform that runs AI agents in a governed, closed control loop |
+| [redlib-mcp](https://github.com/shri30yans/redlib-mcp) | Stateless Rust MCP server and JSON API for Reddit search and reading |
+| [Spectra](https://github.com/shri30yans/spectra) | OTLP observability backend with a deterministic evaluation engine and live dashboard |
+| [formkit](https://github.com/shri30yans/formkit) | Body-centric parametric CAD for Python with shapes, hull, offset and BREP export |
+| [HomePlanner](https://github.com/shri30yans/HomePlanner) | React and Three.js platform for authoring floor plans and viewing them as live 3D interiors |
+
+### Also
+
+- [omnidownload](https://github.com/shri30yans/omnidownload) saves media from YouTube, Instagram, Reddit and X.
+- [3DChameleon-Klipper](https://github.com/shri30yans/3DChameleon-Klipper) adds 4-colour multi-material switching to the 3D Chameleon MMU.
 
 ### Languages and tools
-[<img align="left" alt="Go" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/go-8.svg" />](https://go.dev/)
-[<img align="left" alt="Python" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />](https://www.python.org/)
-[<img align="left" alt="Java" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" />](https://www.java.com/)
-[<img align="left" alt="PostgreSQL" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />](https://www.postgresql.org/)
-[<img align="left" alt="AWS" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" />](https://aws.amazon.com/)
-[<img align="left" alt="GCP" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" />](https://cloud.google.com/)
-[<img align="left" alt="Docker" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" />](https://www.docker.com/)
-[<img align="left" alt="Kubernetes" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" />](https://kubernetes.io/)
-[<img align="left" alt="Spring Boot" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />](https://spring.io/projects/spring-boot)
-[<img align="left" alt="FastAPI" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />](https://fastapi.tiangolo.com/)
-[<img align="left" alt="Arduino" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>](https://www.arduino.cc/)
-[<img align="left" alt="Raspberry Pi" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />](https://www.raspberrypi.org/)
 
-<br>
+Go · Rust · Python · TypeScript · Swift · SwiftUI · React · Expo · PostgreSQL · Supabase · Docker · AWS · GCP
 
+### Currently into
 
-### 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Shri30yans&theme=dark&hide_border=true&ring=51FAFC&fire=3EC0EB&currStreakLabel=3EC0EB"/>
-</p>
+Local inference and agent tooling, real-time audio, GPU-accelerated rendering, and parametric geometry for 3D printing.
