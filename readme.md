@@ -1,11 +1,11 @@
-<img src="assets/hero.gif" alt="Shriyans Gandhi: AI agents, problem solving, always learning" width="100%" />
+<img src="assets/hero.gif" alt="Shriyans Gandhi" width="100%" />
 
 <p>
   <a href="https://shri30yans.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F1115?style=flat-square&logo=react&logoColor=8C9BFF" alt="Portfolio" /></a>
   <a href="mailto:shriyans.gandhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-I like hard, messy problems and building until they're solved. Most of my work is on **AI agents**: systems that plan, use tools and finish what they start. Alongside that I work on real-time speech, GPU rendering and parametric CAD, and I learn whatever a problem requires.
+I'm a problem solver. I like experimenting, learning as I go, and figuring out what will actually help, whether that's an AI agent, a faster pipeline or a tool that doesn't exist yet. Bring me the messy problem and let's solve it together.
 
 ## Selected work
 
@@ -19,10 +19,6 @@ I like hard, messy problems and building until they're solved. Most of my work i
     <td width="50%"><a href="https://github.com/shri30yans/turbomotion"><img src="assets/card-turbomotion.svg" alt="turbomotion" width="100%" /></a></td>
   </tr>
 </table>
-
-## Toolbox
-
-Go · Rust · Python · TypeScript · Swift · React · PostgreSQL · Supabase · Docker · AWS · GCP
 
 ## Get in touch
 
