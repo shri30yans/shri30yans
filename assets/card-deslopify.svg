@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 440 140" width="440" height="140" role="img" aria-label="deslopify">
+  <rect x="0.5" y="0.5" width="439" height="139" rx="12" fill="#0F1218" stroke="#fff" stroke-opacity="0.10"/>
+  <image x="259" y="1" width="180" height="70" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAABGCAYAAABll74gAAABGklEQVR42u3bMQ7CMAwFUIfrMPb+R2DkPGVHhVKpJY7z3hZFXRD6/hhoQVeP57pGRCz31n6573V+t3ffy81bikqal8AkGCn59+4lNBIanTprp5bQSGhMgqydWkIjodGZ7aFBQjPbJLCHBgktaat2bgmNhEbSZz1LaCQ0/ZJSZ9ahkdDMPil0aJDQVO3U//6nig6NhMakyD4JJDQSGknZuzN/upfQSGhMCh0aYCspv+1ij95XO0todGg4+xvNszq7hAZ0Yh0adGj8SlCHBnRyHRqAKyeNhAbG7cTVO7WEBsg2qSQ0oJNn7+wSGgBAp622p756z61DAwDgM8Gxex0aAIDsnTbbnlyHBgAAAACIofbEoz1vDw0AADCxF73rxJJCHrKaAAAAAElFTkSuQmCC" opacity="0.55" style="image-rendering:pixelated"/>
+  <text x="24" y="40" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="650" fill="#E6E8EE">deslopify</text>
+  <text x="24" y="70" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8B93A7">Quality layer for AI coding agents: write-time</text><text x="24" y="90" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8B93A7">guards, slop detectors and a review loop.</text>
+  <text x="24" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8B93A7" opacity="0.85">TypeScript  ·  Agents</text>
+</svg>
